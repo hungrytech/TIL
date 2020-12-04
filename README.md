@@ -4,5 +4,5 @@
   * 현재는 개발자가 되기위해 공부하며 공부한것들을 올릴 예정이다.
 # 목차
 - - -
-## JAVA
+## [JAVA]: https://github.com/hungrytech/TIL/tree/main/JAVA
 
