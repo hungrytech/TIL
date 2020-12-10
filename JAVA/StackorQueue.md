@@ -1,6 +1,8 @@
 # Stack 과 Queue
-> 자바의 정석 Stack 과 Queue 학습 
+> 자바의 정석 Stack 와 Queue 학습
+
 > Stack
+
 > Queue
 
 ## Stack
