@@ -48,7 +48,7 @@ Comparator를 구현해서 정렬기준을 제공할 수 있다.
 ```java
 String[] strArr = {"Dog","cat",  "lion", "tiger"};
 
-Arrays.sort(strArr, String.CASE_INSENSITIVE_ORDER); // 대소문자 구분안
+Arrays.sort(strArr, String.CASE_INSENSITIVE_ORDER); // 대소문자 구분안함
 System.out.println("strArr=" + Arrays.toString(strArr)); // strArr = [cat, Dog, lion, tiger]
 
 ```
