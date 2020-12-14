@@ -7,7 +7,7 @@
 이진트리(bineary tree)는 여러개의 노드(node)가 서로 연결된 구조이고 각 노드에 최대 2개의 노드를 연결할 수 있으며 
 루트(root)라고 불리는 하나의 노드에서부터 시작해서 계속 확장해 나갈 수 있다.
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%259D%25B4%25EC%25A7%2584_%25ED%258A%25B8%25EB%25A6%25AC&psig=AOvVaw2nAfdydhXPia9Oi4-IHoWU&ust=1608040549817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjIzoDQze0CFQAAAAAdAAAAABAD)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%259D%25B4%25EC%25A7%2584_%25ED%258A%25B8%25EB%25A6%25AC&psig=AOvVaw2nAfdydhXPia9Oi4-IHoWU&ust=1608040549817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjIzoDQze0CFQAAAAAdAAAAABAD)
 
 * 위 아래로 연결된 두 노드를 '부모 - 자식관계'에 있다고 한다.
 * 하나의 부모 노드는 최대 두개의 자식 노드와 연결될 수 있다.
